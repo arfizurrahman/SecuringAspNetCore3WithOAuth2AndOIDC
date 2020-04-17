@@ -15,8 +15,6 @@ C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNe
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.dll
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.pdb
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csprojAssemblyReference.cache
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csproj.CoreCompileInputs.cache
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorAssemblyInfo.cache
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorAssemblyInfo.cs
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.AssemblyInfoInputs.cache
@@ -40,3 +38,12 @@ C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNe
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.dll
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.pdb
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.genruntimeconfig.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csproj.CoreCompileInputs.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.MvcApplicationPartsAssemblyInfo.cache
