@@ -121,3 +121,4 @@ C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNe
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csproj.CoreCompileInputs.cache
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Authorization\AccessDenied.cshtml.g.cs
