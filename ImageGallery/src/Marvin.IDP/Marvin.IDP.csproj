@@ -11,4 +11,10 @@
 
     <!-- <PackageReference Include="System.Security.Principal.Windows" Version="4.7.0" /> -->
   </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="System.Security.Principal.Windows">
+      <HintPath>..\..\..\..\..\..\Users\user\.nuget\packages\system.security.principal.windows\4.7.0\ref\netcoreapp3.0\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>

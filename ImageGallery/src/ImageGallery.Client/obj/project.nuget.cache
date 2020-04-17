@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q+o7nCjWfX81t7hMuKE8tGT6bOQiScOo1RRJ9tvdY8AxmbJCJNGyNWZqd14iWxcpKcdphx3qpsmriyVbzB5YtA==",
+  "dgSpecHash": "wbvQLt1zVBvDCgaEosivyYUZSnbzegYGk/5XxvQeqfaO8G31p9gSnUGnOc68KAfx2rnm2Noj8GuByvdwW3Kbrg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\SecuringAspNetCore3WithOAuth2AndOIDC\\ImageGallery\\src\\ImageGallery.Client\\ImageGallery.Client.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\user\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
