@@ -1,0 +1,9 @@
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csprojAssemblyReference.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb

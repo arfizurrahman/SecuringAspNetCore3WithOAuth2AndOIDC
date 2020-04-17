@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {}
+    "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\SecuringAspNetCore3WithOAuth2AndOIDC\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
+    "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\SecuringAspNetCore3WithOAuth2AndOIDC\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
+        "projectUniqueName": "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\SecuringAspNetCore3WithOAuth2AndOIDC\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
         "projectName": "ImageGallery.Model",
-        "projectPath": "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
+        "projectPath": "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\SecuringAspNetCore3WithOAuth2AndOIDC\\ImageGallery\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\ImageGallery\\src\\ImageGallery.Model\\obj\\",
+        "outputPath": "C:\\Projects\\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\\SecuringAspNetCore3WithOAuth2AndOIDC\\ImageGallery\\src\\ImageGallery.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
