@@ -1,9 +1,3 @@
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.csproj.CoreCompileInputs.cache
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.MvcApplicationPartsAssemblyInfo.cache
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.RazorAssemblyInfo.cache
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.RazorAssemblyInfo.cs
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.AssemblyInfoInputs.cache
-C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.AssemblyInfo.cs
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp3.1\Marvin.IDP.exe
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp3.1\Marvin.IDP.deps.json
@@ -36,6 +30,12 @@ C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNe
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.csprojAssemblyReference.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.csproj.CoreCompileInputs.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.RazorAssemblyInfo.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.RazorAssemblyInfo.cs
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.AssemblyInfoInputs.cache
+C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.AssemblyInfo.cs
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.TagHelpers.input.cache
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.TagHelpers.output.cache
 C:\Projects\Securing ASP.NET Core 3 with OAuth2 and OpenID Connect\SecuringAspNetCore3WithOAuth2AndOIDC\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp3.1\Marvin.IDP.RazorCoreGenerate.cache
