@@ -41,13 +41,16 @@ namespace ImageGallery.Client.HttpHandlers
 
         public async Task<string> GetAccessTokenAsync()
         {
-            var expiresAt = await _httpContextAccessor.HttpContext.GetTokenAsync("expires_at");
+            var expiresAt = await _httpContextAccessor
+                .HttpContext.GetTokenAsync("expires_at");
 
-            var expiresAttDateTimeOffset = DateTimeOffset.Parse(expiresAt, CultureInfo.InvariantCulture);
+            var expiresAttDateTimeOffset = 
+                DateTimeOffset.Parse(expiresAt, CultureInfo.InvariantCulture);
 
             if (expiresAttDateTimeOffset.AddSeconds(-60).ToUniversalTime() > DateTime.UtcNow)
             {
-                return await _httpContextAccessor.HttpContext.GetTokenAsync(OpenIdConnectParameterNames.AccessToken);
+                return await _httpContextAccessor
+                    .HttpContext.GetTokenAsync(OpenIdConnectParameterNames.AccessToken);
             }
 
             var idpClient = _httpClientFactory.CreateClient("IDPClient");
